@@ -112,6 +112,8 @@ public class DoublyLinkedList<E> {
             current = current.getNext();
         }
         return sb.toString();
+
+        
     }
 
     public void group(){
